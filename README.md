@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Tahmid Khan</h1>
 <h3 align="center">A passionate computer science student from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 - I’m currently learning **Data Structures & Algorithms, Web Programming, Processor Architecture and C programming.**
 
