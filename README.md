@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Tahmid Khan</h1>
+<h1 align="center">Tahmid Khan Arnab</h1>
 <h3 align="center">A passionate computer science student from Bangladesh!</h3>
 
 - Reach me at **tahmidkhan864@gmail.com**
